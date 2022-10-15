@@ -1,4 +1,10 @@
 # k-NN
+## How to compile
+```
+make main
+make clean
+```
+## How to use
 ```
 USAGE
         --n : number of points
